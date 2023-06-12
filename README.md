@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahiakleine@gmail.com**
 
-- 📄 Know more about me👉 [https://pureking.vercel.app/resume](https://pureking.vercel.app/resume)
+- 📄 Know more about me👉 [pureking.vercel.app/resume](https://pureking.vercel.app/resume)
 
 - ⚡ Quick one **My top goal is being a pro in fullstack software engineering, I am passionate about nutrition and a healthy lifestyle.**
 
