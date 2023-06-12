@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 Preview my works, blog posts and projects from my portfolio 👉 [pureking.vercel.app](https://pureking.vercel.app)
+- 👨‍💻 Preview my works, blog posts and projects from my portfolio 👉 [pureking.app](https://pureking.vercel.app)
 
 - 💬 Let's talk about **react, next.js, gsap animations, Node Js & project ideas.**
 
 - 📫 How to reach me **ahiakleine@gmail.com**
 
-- 📄 Know more about me👉 [pureking.vercel.app/resume](https://pureking.vercel.app/resume)
+- 📄 Know more about me👉 [pureking](https://pureking.vercel.app/resume)
 
 - ⚡ Quick one **My top goal is being a pro in fullstack software engineering, I am passionate about nutrition and a healthy lifestyle.**
 
