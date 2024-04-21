@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/kleinedev" target="blank"><img src="https://img.shields.io/twitter/follow/kleinedev?logo=twitter&style=for-the-badge" alt="kleinedev" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 Preview my works, blog posts and projects from my portfolio 👉 [pureking.app](https://pureking.vercel.app)
 
-- 💬 Let's talk about **react, react-native, next.js, gsap animations, Node Js & project ideas.**
+- 💬 Let's talk about **Flutter, react, react-native, next.js, gsap animations, Node Js & project ideas.**
 
 - 📫 How to reach me **chriskleine433@gmail.com**
 
