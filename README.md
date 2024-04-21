@@ -9,7 +9,7 @@
 
 - 💬 Let's talk about **react, react-native, next.js, gsap animations, Node Js & project ideas.**
 
-- 📫 How to reach me **ahiakleine@gmail.com**
+- 📫 How to reach me **chriskleine433@gmail.com**
 
 - 📄 Know more about me👉 [pureking](https://pureking.vercel.app/resume)
 
