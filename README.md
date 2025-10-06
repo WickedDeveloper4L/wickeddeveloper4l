@@ -1,2 +1,1 @@
-<h1 align="center">Hello there👋, I'm Ahia Kleine Chris</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wickeddeveloper4l&show_icons=true&locale=en&layout=compact" alt="wickeddeveloper4l" /></p>
+<h1>However dark the world gets, I want you to know that happiness is a flickering pilot light that dances in plain view</h1>
